@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Luminara Calendar</title>
+<style>
+  body { font-family: system-ui, sans-serif; background:#0f1115; color:#e6e6e6; padding:24px; }
+  h1 { margin-bottom:16px; }
+  .month { margin-bottom:32px; }
+  h2 { margin:8px 0; }
+  .grid { display:grid; grid-template-columns:repeat(6,1fr); gap:6px; max-width:900px; }
+  .transition { grid-template-columns:repeat(5,1fr); }
+  .transition.leap { grid-template-columns:repeat(6,1fr); }
+  .cell { border:1px solid #3a3f4b; border-radius:6px; min-height:64px; padding:6px; background:#1a1d24; }
+  .cell .num { font-weight:700; }
+  .cell .hol { font-size:12px; color:#9bbcff; margin-top:4px; }
+  .hdr { display:grid; grid-template-columns:repeat(6,1fr); gap:6px; max-width:900px; margin-bottom:6px; font-weight:600; font-size:12px; color:#9aa0a6; }
+  .hdr.transition { grid-template-columns:repeat(5,1fr); }
+  .hdr.transition.leap { grid-template-columns:repeat(6,1fr); }
+</style>
+</head>
+<body>
+<h1>Luminara Calendar</h1>
+<script>
+const months=[{n:"Blossoming",d:30},{n:"Flurry",d:30},{n:"Dreaming",d:30},{n:"Luminary",d:30},{n:"Sweetening",d:30},{n:"Sagacity",d:30},{n:"Gilding",d:30},{n:"Frigidity",d:30},{n:"Silvering",d:30},{n:"Nocturn",d:30},{n:"Umbery",d:30},{n:"Emerging",d:30},{n:"Transition",d:5}];
+const days=["Artemsday","Lunasday","Zeiasday","Daciasday","Athensday","Neosday"];
+const root=document.body;
+months.forEach(m=>{
+  const sec=document.createElement("section"); sec.className="month";
+  const h=document.createElement("h2"); h.textContent=m.n; sec.appendChild(h);
+  const cols = m.d===5?5:6;
+  const hdr=document.createElement("div"); hdr.className="hdr"+(m.n==="Transition"?" transition":"");
+  for(let i=0;i<cols;i++){const d=document.createElement("div");d.textContent=days[i];hdr.appendChild(d);}
+  sec.appendChild(hdr);
+  const grid=document.createElement("div"); grid.className="grid"+(m.n==="Transition"?" transition":"");
+  for(let i=1;i<=m.d;i++){
+    const c=document.createElement("div"); c.className="cell";
+    c.innerHTML=`<div class="num">${i}</div><div class="hol"></div>`;
+    grid.appendChild(c);
+  }
+  sec.appendChild(grid);
+  root.appendChild(sec);
+});
+// leap transition
+const sec=document.createElement("section"); sec.className="month";
+const h=document.createElement("h2"); h.textContent="Transition (Leap Year)"; sec.appendChild(h);
+const hdr=document.createElement("div"); hdr.className="hdr transition leap";
+for(let i=0;i<6;i++){const d=document.createElement("div");d.textContent=days[i];hdr.appendChild(d);}
+sec.appendChild(hdr);
+const grid=document.createElement("div"); grid.className="grid transition leap";
+for(let i=1;i<=6;i++){const c=document.createElement("div");c.className="cell";c.innerHTML=`<div class="num">${i}</div><div class="hol"></div>`;grid.appendChild(c);}
+sec.appendChild(grid); root.appendChild(sec);
+</script>
+</body>
+</html>
