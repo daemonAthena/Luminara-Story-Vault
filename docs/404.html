@@ -16,14 +16,59 @@
             const era = n<=299?'E1': n<=599?'E2':'E3';
             return m+" "+dom+", Year "+n+" "+era+" — "+days[(doy-1)%6];
           }
-          document.addEventListener('DOMContentLoaded',function(){
-            const bar=document.createElement('div');
-            bar.style.cssText='height:28px;background:linear-gradient(90deg,#1e1e2e,#313244);color:#cdd6f4;font-family:monospace;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;padding:0 12px;margin-bottom:10px;border-radius:6px;border:1px solid #45475a;letter-spacing:0.5px;';
-            bar.textContent=luminaraDate();
-            const bc=document.querySelector('div.center nav.breadcrumb-container, div.center .breadcrumb-container, nav.breadcrumb-container');
-            if(bc && bc.parentNode){ bc.parentNode.insertBefore(bar, bc); }
-            else { const center=document.querySelector('div.center'); if(center){ center.prepend(bar); } else { document.body.prepend(bar); } }
-          });
+          document.addEventListener('DOMContentLoaded',function(){ mountBar(); renderLumCalendar(); });
+                    document.addEventListener('nav',function(){ mountBar(); renderLumCalendar(); });
+                    function mountBar(){
+                      const old=document.getElementById('luminara-bar'); if(old) old.remove();
+                      const bar=document.createElement('div');
+                      bar.id='luminara-bar';
+                      bar.style.cssText='height:28px;background:linear-gradient(90deg,#1e1e2e,#313244);color:#cdd6f4;font-family:monospace;font-size:12px;font-weight:700;display:flex;align-items:center;justify-content:center;padding:0 12px;margin-bottom:10px;border-radius:6px;border:1px solid #45475a;letter-spacing:0.5px;';
+                      bar.textContent=luminaraDate();
+                      const bc=document.querySelector('div.center nav.breadcrumb-container, div.center .breadcrumb-container, nav.breadcrumb-container');
+                      if(bc && bc.parentNode){ bc.parentNode.insertBefore(bar, bc); }
+                      else { const center=document.querySelector('div.center'); if(center){ center.prepend(bar); } else { document.body.prepend(bar); } }
+                    }
+                    const lumMonths=[{n:"Blossoming",d:30},{n:"Flurry",d:30},{n:"Dreaming",d:30},{n:"Luminary",d:30},{n:"Sweetening",d:30},{n:"Sagacity",d:30},{n:"Gilding",d:30},{n:"Frigidity",d:30},{n:"Silvering",d:30},{n:"Nocturn",d:30},{n:"Umbery",d:30},{n:"Emerging",d:30},{n:"Transition",d:5}];
+                    const lumDays=["Artemsday","Lunasday","Zeiasday","Daciasday","Athensday","Neosday"];
+                    const lumLabels = {
+                      "Blossoming-1": "First Bloom <br/> (April 20th)",
+                      "Blossoming-3": "New Home Day",
+                      "Flurry-9": "Independence Day",
+                      "Dreaming-24": "Circei's Day",
+                      "Nocturn-12": "Darkest Day",
+                      "Emerging-8": "Day of Lost Tokens<br/> <s> Zenia's Birthday</s>",
+                      "Emerging-25": "Found Family Day",
+                      "Transition-1": "Introspection",
+                      "Transition-2": "Concealment",
+                      "Transition-3": "Apex",
+                      "Transition-4": "Liberation",
+                      "Transition-5": "Council",
+                      "Transition-6": "Mourning"
+                    };
+                    function lumLabelFor(m,d){ return lumLabels[m+"-"+d] || ""; }
+                    function renderLumCalendar(){
+                      const root=document.getElementById('lum-calendar');
+                      if(!root) return;
+                      let html='';
+                      lumMonths.forEach(m=>{
+                        const cols = m.d===5?5:6;
+                        html += '<h2>'+m.n+'</h2>';
+                        html += '<div style="display:grid;grid-template-columns:repeat('+cols+',1fr);gap:6px;max-width:900px;margin-bottom:6px;font-weight:600;font-size:12px;color:#9aa0a6;">'+lumDays.slice(0,cols).map(d=>'<div>'+d+'</div>').join('')+'</div>';
+                        html += '<div style="display:grid;grid-template-columns:repeat('+cols+',1fr);gap:6px;max-width:900px;">';
+                        for(let i=1;i<=m.d;i++){
+                          html += '<div style="border:1px solid #3a3f4b;border-radius:6px;min-height:64px;padding:6px;background:#1a1d24;color:#e6e6e6;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-start;text-align:right;"><div style="font-weight:700;">'+i+'</div><div style="font-size:12px;color:#9bbcff;margin-top:auto;text-align:right;">'+lumLabelFor(m.n,i)+'</div></div>';
+                        }
+                        html += '</div>';
+                      });
+                      html += '<h2>Transition (Leap Year)</h2>';
+                      html += '<div style="display:grid;grid-template-columns:repeat(6,1fr);gap:6px;max-width:900px;margin-bottom:6px;font-weight:600;font-size:12px;color:#9aa0a6;">'+lumDays.map(d=>'<div>'+d+'</div>').join('')+'</div>';
+                      html += '<div style="display:grid;grid-template-columns:repeat(6,1fr);gap:6px;max-width:900px;">';
+                      for(let i=1;i<=6;i++){
+                        html += '<div style="border:1px solid #3a3f4b;border-radius:6px;min-height:64px;padding:6px;background:#1a1d24;color:#e6e6e6;display:flex;flex-direction:row;justify-content:space-between;align-items:flex-start;text-align:right;"><div style="font-weight:700;">'+i+'</div><div style="font-size:12px;color:#9bbcff;margin-top:auto;text-align:right;">'+lumLabelFor("Transition",i)+'</div></div>';
+                      }
+                      html += '</div>';
+                      root.innerHTML = html;
+                    }
         </script><script src="/Luminara-Story-Vault/prescript-2bfc6315.js" type="application/javascript" data-persist="true"></script><script type="application/javascript" data-persist="true">const fetchData = fetch("/Luminara-Story-Vault/static/contentIndex.json").then(data => data.json())</script><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted%20Grotesk%3Awght%40400%3B700&amp;family=Source%20Sans%20Pro%3Aital%2Cwght%400%2C400%3B0%2C600%3B1%2C400%3B1%2C600&amp;family=IBM%20Plex%20Mono%3Awght%40400%3B600&amp;display=swap"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://daemonathena.github.io/Luminara-Story-Vault/static/og-image.png"/><meta property="og:image:url" content="https://daemonathena.github.io/Luminara-Story-Vault/static/og-image.png"/><meta name="twitter:image" content="https://daemonathena.github.io/Luminara-Story-Vault/static/og-image.png"/><meta property="og:image:type" content="image/png"/></head><body data-slug="404" data-basepath="/Luminara-Story-Vault"><div id="quartz-root" class="page" data-frame="minimal"><div id="quartz-body"><div class="center minimal"><article class="popover-hint"><h1>404</h1><p>Either this page is private or doesn't exist.</p><a href="/Luminara-Story-Vault">Return to Homepage</a><script>
           if (typeof fetchData !== "undefined") {
             fetchData.then(function(index) {
