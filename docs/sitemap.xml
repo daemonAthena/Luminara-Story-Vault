@@ -3,13 +3,13 @@
     <lastmod>2026-11-05T14:44:33.874Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/characters/ampersat</loc>
-    <lastmod>2026-11-03T01:15:48.878Z</lastmod>
+    <lastmod>2026-11-13T22:58:06.027Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/characters/artemis</loc>
-    <lastmod>2026-11-02T03:22:01.701Z</lastmod>
+    <lastmod>2026-11-13T23:04:23.412Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/characters/belial</loc>
-    <lastmod>2026-11-01T19:15:13.810Z</lastmod>
+    <lastmod>2026-11-13T15:12:18.874Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/characters/cercei</loc>
     <lastmod>2026-11-02T03:32:12.783Z</lastmod>
@@ -33,7 +33,7 @@
     <lastmod>2026-11-07T19:51:22.378Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/classes/harpies</loc>
-    <lastmod>2026-10-30T08:11:43.415Z</lastmod>
+    <lastmod>2026-11-13T15:29:46.679Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/classes/luddites</loc>
     <lastmod>2026-10-30T08:12:25.588Z</lastmod>
@@ -45,16 +45,13 @@
     <lastmod>2026-10-30T08:20:03.806Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/events/language-drift-of-the-council-era</loc>
-    <lastmod>2026-11-01T20:30:48.270Z</lastmod>
+    <lastmod>2026-11-14T03:49:09.329Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/events/luminara-c</loc>
     <lastmod>2026-10-30T09:45:11.251Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/events/romantic-duels</loc>
     <lastmod>2026-10-30T09:45:11.253Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/events/fight</loc>
-    <lastmod>2026-11-04T20:16:22.507Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/locations/district-e</loc>
     <lastmod>2026-10-30T08:19:26.420Z</lastmod>
@@ -93,7 +90,7 @@
     <lastmod>2026-11-06T23:13:25.443Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/organizations/gorgon-operations-koros</loc>
-    <lastmod>2026-11-01T19:34:17.170Z</lastmod>
+    <lastmod>2026-11-13T14:54:39.818Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/organizations/luminaran-monarchy</loc>
     <lastmod>2026-11-06T01:56:28.562Z</lastmod>
@@ -109,6 +106,12 @@
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/ace</loc>
     <lastmod>2026-11-01T19:38:10.328Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/calantha's-return</loc>
+    <lastmod>2026-11-13T22:38:21.587Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/calantha's-return0</loc>
+    <lastmod>2026-11-13T22:39:54.054Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/communication-with-animals</loc>
     <lastmod>2026-10-24T07:50:44.576Z</lastmod>
@@ -146,11 +149,8 @@
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/qr-based-hypnosis</loc>
     <lastmod>2026-10-30T09:33:58.191Z</lastmod>
   </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/sword-of-the-princess</loc>
-    <lastmod>2026-10-30T08:14:54.531Z</lastmod>
-  </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/the-palladium</loc>
-    <lastmod>2026-10-31T04:25:03.631Z</lastmod>
+    <lastmod>2026-11-13T22:30:34.940Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/x0_anon</loc>
     <lastmod>2026-10-30T06:37:35.243Z</lastmod>
@@ -164,6 +164,9 @@
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/_system/templates/locations</loc>
     <lastmod>2026-11-01T19:38:56.394Z</lastmod>
   </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/_system/templates/music</loc>
+    <lastmod>2026-11-12T17:34:49.650Z</lastmod>
+  </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/_system/templates/organizations</loc>
     <lastmod>2026-11-05T23:45:36.168Z</lastmod>
   </url><url>
@@ -171,383 +174,422 @@
     <lastmod>2026-11-01T19:33:20.001Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/</loc>
-    <lastmod>2026-11-09T02:08:48.906Z</lastmod>
+    <lastmod>2026-11-13T22:59:29.630Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/ampersat,-the-sign-before-a</loc>
+    <lastmod>2026-11-12T18:11:15.924Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/artemis-at-the-gate</loc>
+    <lastmod>2026-11-12T18:11:29.960Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/belial---bad-bitch-in-a-perfect-uniform</loc>
+    <lastmod>2026-11-12T17:56:52.437Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/chaos-in-the-cadre</loc>
+    <lastmod>2026-11-12T18:11:04.862Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/freedom-works-best-under-care</loc>
+    <lastmod>2026-11-12T17:35:08.119Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/luminara,-i-remembered-you</loc>
+    <lastmod>2026-11-12T18:16:17.561Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/luminara,-i-remember-you</loc>
+    <lastmod>2026-11-12T17:39:33.431Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/nuei-attica</loc>
+    <lastmod>2026-11-12T18:11:21.899Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/palladium-fever</loc>
+    <lastmod>2026-11-12T17:46:39.095Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/the-blade-that-breaks-the-palladium</loc>
+    <lastmod>2026-11-12T18:16:52.573Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/the-dark-that-wears-my-face</loc>
+    <lastmod>2026-11-12T17:44:27.312Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/the-truth-they-buried</loc>
+    <lastmod>2026-11-12T17:42:01.507Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/zenia-remembers</loc>
+    <lastmod>2026-11-12T18:10:55.724Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/characters/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/classes/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/events/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/locations/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/meta/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/organizations/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/technology/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/_system/templates/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/_system/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/lyrics/</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/character</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/pilot</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/gok</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/postergirl</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/doll</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/metiz</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/princess</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/infiltration</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/amnesia</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/zenia</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ampersat</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/girl</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/foundation</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/technician</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ace</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/sakuya</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/adoption</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/harpy</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/first-harpy</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/artificer</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ipv7</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/palladium</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/sword</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/luddite</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/metiz</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/exile</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/lineage</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/add</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/your</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/tags</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/factions</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/classes</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/harpies</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/post-traumatic-growth</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/actualization</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/luminara-c</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/faction</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/federationists</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/hacktivists</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/event</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/council-of-angels</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/coup</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/luminara-future</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/language</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/doll</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/treason</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/wave</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/synthesis</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/technology</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/protocol-shift</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/luminara-a</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/luminara-b</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/tradition</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/conflict</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/location</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/region</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/island</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/council</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/meta</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/themes</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/motif</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/dialectic</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/recursion</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/langtons-ant</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/template</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/parallels</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/references</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/homestuck</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/evangelion</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/madoka</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/lain</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/organizations</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ruling-class</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/hierarchy</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/operation</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/frames</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/gorgons</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/young-modellians</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/radical-movement</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/endgame</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/arbitrary-code-execution</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/network-layers</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/animals</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/consciousness</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/drivers</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/driver</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/interface</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/organ</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/augmentation</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/pilots</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/dehumanization</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/pronouns</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/concept</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/network</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/protocol</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/addressing</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/transport</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/encryption</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/tls</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/intimacy</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/trust</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/license</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/copyleft</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/federation</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/encoding</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/mind</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/brain-boxes</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/cognition</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/personality</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/architecture</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
-  </url><url>
-    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ego-death</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/test</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/calantha</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/memory</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/animals</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/consciousness</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/drivers</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/driver</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/interface</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/organ</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/augmentation</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/pilots</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/dehumanization</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/pronouns</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/concept</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/network</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/protocol</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/addressing</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/transport</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/encryption</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/tls</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/intimacy</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/trust</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/license</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/copyleft</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/federation</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/encoding</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/mind</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/brain-boxes</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/cognition</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/personality</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/architecture</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
+  </url><url>
+    <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/ego-death</loc>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/router</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/circei</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/infrastructure</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/data-center</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url><url>
     <loc>https://daemonathena.github.io/Luminara-Story-Vault/tags/</loc>
-    <lastmod>2026-11-11T22:51:25.500Z</lastmod>
+    <lastmod>2026-11-14T17:51:36.292Z</lastmod>
   </url></urlset>
